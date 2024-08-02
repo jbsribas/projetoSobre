@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'sankofa';
+    src: url(../font/Sankofa_Display/SankofaDisplay-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: 'playWrite';
+    src: url(../font/Playwrite_BE_VLG/PlaywriteBEVLG-VariableFont_wght.ttf);
+}
+
+
+@font-face {
+    font-family:'Kalzania';
+    src: url(../font/Kalnia_Glaze/KalniaGlaze-VariableFont_wdth\,wght.ttf);
+}
